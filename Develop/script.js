@@ -59,3 +59,8 @@ $(document).ready(function() {
 
 timeTracker();
 })
+
+function deleteTasks() {
+    localStorage.clear();
+    window.location.reload();
+}
