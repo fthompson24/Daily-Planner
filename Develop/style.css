@@ -25,6 +25,9 @@ textarea{
 .description{
   white-space: pre-wrap;
   border: 5px solid black;
+  font-family: 'Courgette', cursive;
+  font-size: 20px;
+  font-stretch: expanded;
 }
 
 .time-block{
