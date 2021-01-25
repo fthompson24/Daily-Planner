@@ -46,15 +46,15 @@ $(document).ready(function() {
 
 
     //load saved tasks from localStorage
-    $("#9 .description").val(localStorage.getItem("0900"));
-    $("#10 .description").val(localStorage.getItem("1000"));
-    $("#11 .description").val(localStorage.getItem("1100"));
-    $("#12 .description").val(localStorage.getItem("1200"));
-    $("#13 .description").val(localStorage.getItem("1300"));
-    $("#14 .description").val(localStorage.getItem("1400"));
-    $("#15 .description").val(localStorage.getItem("1500"));
-    $("#16 .description").val(localStorage.getItem("1600"));
-    $("#17 .description").val(localStorage.getItem("1700"));
+    $("#9 .description").val(localStorage.getItem("9"));
+    $("#10 .description").val(localStorage.getItem("10"));
+    $("#11 .description").val(localStorage.getItem("11"));
+    $("#12 .description").val(localStorage.getItem("12"));
+    $("#13 .description").val(localStorage.getItem("13"));
+    $("#14 .description").val(localStorage.getItem("14"));
+    $("#15 .description").val(localStorage.getItem("15"));
+    $("#16 .description").val(localStorage.getItem("16"));
+    $("#17 .description").val(localStorage.getItem("17"));
 
 
 timeTracker();
