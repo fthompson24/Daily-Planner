@@ -23,3 +23,8 @@ SO THAT I can manage my time effectively
     - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
     - THEN the saved events persist
+
+![Daily Planner](https://user-images.githubusercontent.com/71037699/105659892-cb490400-5f04-11eb-8fb0-2e7377d7849d.png)
+
+
+[Click HERE to visit deployed app!](https://fthompson24.github.io/Daily-Planner/)
